@@ -1,1 +1,1 @@
-![Descrição da imagem](movies-color.png)
+![Descrição da imagem](movies_colors.png)
